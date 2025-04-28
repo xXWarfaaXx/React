@@ -21,3 +21,15 @@ A simple To-Do list app with a **React front-end** and a **Go back-end**.
 - Add tasks
 - View tasks
 - Delete tasks
+
+****************************************************************************************************************************************************************************************************************
+DO THIS FIRST 
+
+npx create-react-app react-todo-frontend
+cd react-todo-frontend
+
+THEN 
+
+npm install axios
+
+
